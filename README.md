@@ -18,11 +18,11 @@
 Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/legrandced/Support/issues/new).
 
 
-## Terms of Use
+## Terms and Conditions
 
-Link to our [Terms of Use](https://github.com/legrandced/Support/Terms of Use).
+Link to [Terms and Conditions](https://github.com/legrandced/Support/blob/master/Terms%20and%20Conditions.pdf).
 
 
 ## Privacy Policy
 
-Have a bug or a feature request? Please first search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/legrandced/Support/issues/new).
+Link to [Privacy Policy](https://github.com/legrandced/Support/blob/master/Privacy%20Policy.pdf).
