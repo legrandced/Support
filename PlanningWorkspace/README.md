@@ -20,9 +20,9 @@ Have a bug or a feature request? Please first search for existing and closed iss
 
 ## Terms and Conditions
 
-Link to [Terms and Conditions](https://github.com/legrandced/Support/blob/master/Terms%20and%20Conditions.pdf).
+Link to [Terms and Conditions](https://github.com/legrandced/Support/blob/master/PlanningWorkspace/Terms%20and%20Conditions.pdf).
 
 
 ## Privacy Policy
 
-Link to [Privacy Policy](https://github.com/legrandced/Support/blob/master/Privacy%20Policy.pdf).
+Link to [Privacy Policy](https://github.com/legrandced/Support/blob/master/PlanningWorkspace/Privacy%20Policy.pdf).
