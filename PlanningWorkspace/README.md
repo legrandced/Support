@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://lh3.googleusercontent.com/Y00c4nIkMOGOZVFwFgMrRbi7J4HP23SnlGiZY0s1PPi76GTJeqsrClyZgNAootLywwI=s180" alt="Planning Workspace logo" width="200" height="165">
+    <img src="https://lh3.googleusercontent.com/Y00c4nIkMOGOZVFwFgMrRbi7J4HP23SnlGiZY0s1PPi76GTJeqsrClyZgNAootLywwI=s180" alt="Planning Workspace logo" width="200" height="200">
   </a>
 </p>
 
