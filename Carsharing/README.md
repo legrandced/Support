@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/legrandced/Support/blob/master/Carsharing/carsharing.png" alt="Carsharing logo" width="200" height="165">
+    <img src="https://github.com/legrandced/Support/blob/master/Carsharing/carsharing.png" alt="Carsharing logo" width="200" height="200">
   </a>
 </p>
 
