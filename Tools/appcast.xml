@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<rss version="2.0" xmlns:sparkle="https://github.com/legrandced/Support/blob/master/Tools/">
     <channel>
         <title>Tools</title>
         <description>Most recent updates to Tools</description>
