@@ -6,8 +6,11 @@
         <language>en</language>
         <item>
             <title>Version 0.9.6</title>
+            <sparkle:releaseNotesLink>
+                https://github.com/legrandced/Support/blob/master/Tools/release_notes.html
+            </sparkle:releaseNotesLink>
             <pubDate>Mon, 17 Apr 2023 13:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/legrandced/Support/blob/master/Tools/Tools-0.9.6-windows-setup.exe"
+            <enclosure url="Tools-0.9.6-windows-setup.exe"
                 sparkle:dsaSignature="MEUCIQCebfMErreedZeT3+nz3rfjAiO43HB3CgnDOjb+Bk5xfAIgd+5Tp3FCzE2Jb9kWgkJAYHiPWrf3I8buHBT04yDO2I0="
                 sparkle:version="0.9.6"
                 sparkle:os="windows"
