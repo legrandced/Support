@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Tools</title>
+        <description>Most recent updates to Tools</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.9.4</title>
+            <pubDate>Mon, 17 Apr 2023 12:00:00 +0800</pubDate>
+            <enclosure url="asw_tools-0.9.3%2B0.9.3-windows-setup.exe?alt=media&amp;token=8a0f1e23-395b-45af-a787-04d925d58ee0"
+                sparkle:dsaSignature="MEUCIQC54CyNbvJf5IGZL3L1hBdie+o//N0AyQNCsoNrT7j3xwIgRYQTF7JocaTOUug7So81IFtM4VWze1/2cB2VBZZEwkw="
+                sparkle:version="0.9.3"
+                sparkle:os="windows"
+                length="0"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
