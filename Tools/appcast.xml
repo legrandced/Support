@@ -5,13 +5,13 @@
         <description>Most recent updates to Tools</description>
         <language>en</language>
         <item>
-            <title>Version 0.9.5</title>
-            <pubDate>Mon, 17 Apr 2023 12:00:00 +0800</pubDate>
-            <enclosure url="https://github.com/legrandced/Support/blob/master/Tools/Tools-0.9.5-windows-setup.exe"
-                sparkle:dsaSignature="MEYCIQCF1YIYAJqA7wJrQ5ho0+xibeYYnGjhPWqcbSylJ38hXgIhAL0umdp3OteK1zSTHPXFCnmXEoskCzoAzZ5VmnqUfrLN"
-                sparkle:version="0.9.5"
+            <title>Version 0.9.6</title>
+            <pubDate>Mon, 17 Apr 2023 13:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/legrandced/Support/blob/master/Tools/Tools-0.9.6-windows-setup.exe"
+                sparkle:dsaSignature="MEUCIQCebfMErreedZeT3+nz3rfjAiO43HB3CgnDOjb+Bk5xfAIgd+5Tp3FCzE2Jb9kWgkJAYHiPWrf3I8buHBT04yDO2I0="
+                sparkle:version="0.9.6"
                 sparkle:os="windows"
-                length="15237484"
+                length="15237120"
                 type="application/octet-stream" />
         </item>
     </channel>
