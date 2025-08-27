@@ -20,9 +20,21 @@ Have a bug or a feature request? Please first search for existing and closed iss
 
 ## Terms and Conditions
 
-Link to [Terms and Conditions](https://github.com/legrandced/Support/blob/master/Macaveavins/Terms%20and%20Conditions.pdf).
+- [Deutsch](https://github.com/legrandced/Support/blob/master/Macaveavins/DE%20-%20Terms%20and%20Conditions.pdf)
+- [English](https://github.com/legrandced/Support/blob/master/Macaveavins/EN%20-%20Terms%20and%20Conditions.pdf)
+- [Español](https://github.com/legrandced/Support/blob/master/Macaveavins/ES%20-%20Terms%20and%20Conditions.pdf)
+- [Français](https://github.com/legrandced/Support/blob/master/Macaveavins/FR%20-%20Terms%20and%20Conditions.pdf)
+- [Italiano](https://github.com/legrandced/Support/blob/master/Macaveavins/IT%20-%20Terms%20and%20Conditions.pdf)
+- [Nederlands](https://github.com/legrandced/Support/blob/master/Macaveavins/NL%20-%20Terms%20and%20Conditions.pdf)
+- [Português](https://github.com/legrandced/Support/blob/master/Macaveavins/PT%20-%20Terms%20and%20Conditions.pdf)
 
 
 ## Privacy Policy
 
-Link to [Privacy Policy](https://github.com/legrandced/Support/blob/master/Macaveavins/Privacy%20Policy.pdf).
+- [Deutsch](https://github.com/legrandced/Support/blob/master/Macaveavins/DE%20-%20Privacy%20Policy.pdf)
+- [English](https://github.com/legrandced/Support/blob/master/Macaveavins/EN%20-%20Privacy%20Policy.pdf)
+- [Español](https://github.com/legrandced/Support/blob/master/Macaveavins/ES%20-%20Privacy%20Policy.pdf)
+- [Français](https://github.com/legrandced/Support/blob/master/Macaveavins/FR%20-%20Privacy%20Policy.pdf)
+- [Italiano](https://github.com/legrandced/Support/blob/master/Macaveavins/IT%20-%20Privacy%20Policy.pdf)
+- [Nederlands](https://github.com/legrandced/Support/blob/master/Macaveavins/NL%20-%20Privacy%20Policy.pdf)
+- [Português](https://github.com/legrandced/Support/blob/master/Macaveavins/PT%20-%20Privacy%20Policy.pdf)
