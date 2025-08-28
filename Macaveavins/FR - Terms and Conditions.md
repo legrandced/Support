@@ -2,49 +2,82 @@
 
 En vigueur au 01/09/2025
 
-## Article 1 — Objet et Définitions
-Les présentes Conditions Générales d'Utilisation (ci-après « CGU ») ont pour objet l'encadrement juridique de l'application mobile « Ma cave à vins » (ci-après l'« Application ») et de définir les conditions d'accès et d'utilisation des services par l'« Utilisateur ».
+## Article 1 — Objet, Acceptation et Reconnaissance
+Les présentes Conditions Générales d'Utilisation (ci-après « CGU ») régissent votre accès et votre utilisation de l'application mobile « Ma cave à vins » (ci-après l'« Application »), éditée par Cédric Legrand. 
 
-L'acceptation de ces CGU est indispensable à toute inscription et utilisation de l'Application.
+L'Utilisateur et Cédric Legrand reconnaissent que les présentes CGU sont conclues entre l'Utilisateur et Cédric Legrand uniquement, et non avec Apple Inc. (« Apple ») ou Google LLC (« Google »). Cédric Legrand, et non Apple ou Google, est seul responsable de l'Application et de son contenu. Ces CGU ne peuvent contenir des règles d'utilisation qui entreraient en conflit avec les Conditions Générales des Services Multimédias d’Apple ou les Conditions d'Utilisation du Google Play Store en vigueur.
 
-## Article 2 — Mentions légales
-L'édition de l'application « Ma cave à vins » est assurée par Cédric Legrand.
-Pour toute question ou demande d'information, l'Utilisateur peut contacter l'éditeur à l'adresse e-mail suivante : info@macaveavins.app.
+En téléchargeant, installant ou utilisant l'Application, vous reconnaissez avoir lu, compris et accepté d'être lié par l'intégralité de ces CGU. Si vous n'êtes pas d'accord avec ces termes, vous ne devez pas utiliser l'Application.
 
-## Article 3 — Accès et Inscription
-L'Application est accessible gratuitement à tout Utilisateur disposant d'un accès à Internet. Tous les frais supportés par l'Utilisateur pour accéder au service (matériel informatique, logiciels, connexion, etc.) sont à sa charge.
+## Article 2 — Mentions Légales et Contact
+L'Application est éditée par Cédric Legrand. Pour toute question, réclamation ou plainte concernant l'Application, l'Utilisateur doit contacter Cédric Legrand aux coordonnées suivantes :
+- **Adresse** : 6 Chemin du Cyclotron, 1348 Louvain-la-Neuve, Belgique
+- **E-mail** : info@macaveavins.app
 
-Certaines fonctionnalités nécessitent la création d'un compte. En créant un compte, l'Utilisateur s'engage à fournir des informations exactes et à les maintenir à jour. L'accès au compte est protégé par un identifiant et un mot de passe qui sont strictement personnels et confidentiels.
+## Article 3 — Accès, Compte et Souscription
+L'Application est accessible à toute personne disposant d'un accès à Internet. Certaines fonctionnalités de base sont gratuites, mais un accès complet à toutes les fonctionnalités de l'Application nécessite la création d'un compte et la souscription à un abonnement payant (voir Article 5). En créant un compte, vous vous engagez à fournir des informations exactes, complètes et à jour. Vous êtes seul responsable de la confidentialité de vos identifiants de connexion et de toutes les activités effectuées depuis votre compte.
 
-## Article 4 — Licence d'utilisation
-Cédric Legrand concède à l'Utilisateur un droit non-exclusif, personnel et non-cessible d'utiliser l'Application à des fins personnelles. Cédric Legrand conserve l'entière propriété et l'ensemble des droits de propriété intellectuelle sur l'Application.
+## Article 4 — Portée de la Licence
+Cédric Legrand vous concède une licence limitée, non transférable, pour utiliser l'Application sur tout appareil compatible que vous possédez ou contrôlez, et tel que permis par les Règles d'Utilisation énoncées dans les Conditions Générales des Services Multimédias d’Apple et les Conditions d'Utilisation du Google Play Store. L'Application peut également être accédée et utilisée par d'autres comptes associés à l'acheteur via le Partage Familial ou les achats en volume.
+
+Vous ne pouvez pas :
+- (a) louer, vendre, distribuer ou offrir en sous-licence l'Application ;
+- (b) procéder à l'ingénierie inverse, décompiler ou désassembler l'Application ;
+- (c) copier, modifier ou créer des œuvres dérivées de l'Application ;
+- (d) utiliser l'Application à des fins illégales ou non autorisées.
 
 ## Article 5 — Services et Abonnements Premium
-L'Application propose des fonctionnalités gratuites ainsi que des fonctionnalités avancées (ci-après les « Services Premium ») accessibles via un abonnement payant. Les Services Premium incluent, sans s'y limiter, un nombre illimité de scans, la création de plusieurs plans de caves et l'export de données.
+1.  **Description** : L'Application propose des fonctionnalités avancées (« Services Premium ») accessibles via des abonnements payants, mensuels ou annuels.
+2.  **Souscription et Renouvellement** : Les abonnements sont gérés exclusivement par les plateformes de distribution d'applications (l'App Store d'Apple pour iOS et le Google Play Store pour Android). Le paiement sera débité de votre compte App Store ou Google Play au moment de la confirmation de l'achat. Les abonnements sont renouvelés automatiquement, sauf si le renouvellement automatique est désactivé au moins 24 heures avant la fin de la période en cours.
+3.  **Annulation** : Vous pouvez gérer et annuler vos abonnements à tout moment en accédant aux paramètres de votre compte sur l'App Store ou le Google Play Store. L'annulation prendra effet à la fin de la période d'abonnement en cours.
+4.  **Changement de tarif** : Cédric Legrand se réserve le droit de modifier les tarifs des abonnements. Tout changement de tarif sera appliqué à la prochaine période de renouvellement, sous réserve d'une notification préalable.
 
-Les abonnements sont gérés via les plateformes de l'App Store d'Apple et du Google Play Store. Ils sont souscrits pour une période mensuelle ou annuelle et sont renouvelés automatiquement, sauf annulation par l'Utilisateur directement depuis les paramètres de son compte Apple ou Google au moins 24 heures avant la fin de la période en cours. Conformément à la législation en vigueur, en souscrivant à un abonnement et en accédant immédiatement au contenu numérique, l'Utilisateur reconnaît qu'il perd son droit de rétractation.
+## Article 6 — Maintenance et Support
+Cédric Legrand est seul responsable de la fourniture de tout service de maintenance et de support pour l'Application, comme spécifié dans les présentes CGU ou tel que requis par la loi applicable. L'Utilisateur et Cédric Legrand reconnaissent qu'Apple et Google n'ont aucune obligation de fournir des services de maintenance et de support pour l'Application.
 
-## Article 6 — Obligations de l'Utilisateur
-L'Utilisateur est responsable des données qu'il publie dans l'Application (informations sur les vins, photographies, etc.). Il s'engage à respecter les lois en vigueur et à ne pas porter atteinte aux droits de tiers.
+## Article 7 — Garantie
+Cédric Legrand est seul responsable de toute garantie de produit, qu'elle soit expresse ou implicite par la loi, dans la mesure où elle n'est pas efficacement déclinée. En cas de non-conformité de l'Application à une garantie applicable, l'Utilisateur peut en informer la plateforme d'achat (Apple ou Google), qui pourra rembourser le prix d'achat de l'Application. Dans la mesure maximale autorisée par la loi applicable, ni Apple ni Google n'auront aucune autre obligation de garantie que ce soit en ce qui concerne l'Application. Toute autre réclamation, perte, responsabilité, dommage, coût ou dépense attribuable à une non-conformité à une garantie sera de la seule responsabilité de Cédric Legrand.
 
-Il est interdit à l'Utilisateur de :
-- Louer, vendre, distribuer ou offrir en sous-licence l'Application.
-- Procéder à l'ingénierie inverse, décompiler ou désassembler l'Application.
-- Utiliser l'Application à des fins illégales ou non autorisées.
+L'Application est fournie « en l'état ». Cédric Legrand décline toute garantie, y compris les garanties implicites de qualité marchande ou d'adéquation à un usage particulier. Les informations fournies par l'Application, notamment celles issues de la fonctionnalité de scan d'étiquettes, sont à titre indicatif et ne sont pas garanties.
 
-## Article 7 — Propriété intellectuelle
-Les marques, logos, ainsi que tous les contenus de l'Application (textes, images, code, etc.) sont la propriété exclusive de Cédric Legrand et sont protégés par le Code de la propriété intellectuelle. Toute reproduction, publication ou copie sans autorisation préalable est strictement interdite.
+## Article 8 — Réclamations et Limitation de Responsabilité
+L'Utilisateur et Cédric Legrand reconnaissent que Cédric Legrand, et non Apple ou Google, est responsable de traiter toute réclamation de l'Utilisateur ou d'un tiers concernant l'Application, y compris :
+- (i) les réclamations relatives à la responsabilité du fait des produits ;
+- (ii) toute réclamation selon laquelle l'Application ne se conforme pas à une exigence légale ou réglementaire ;
+- (iii) et les réclamations découlant de la protection des consommateurs ou de la vie privée.
 
-## Article 8 — Responsabilité et Garanties
-L'Application est fournie « en l'état ». Cédric Legrand ne garantit pas qu'elle soit exempte de défauts, d'erreurs ou d'omissions. Les informations diffusées, notamment celles issues de la fonctionnalité de scan d'étiquettes par intelligence artificielle, sont fournies à titre indicatif et peuvent contenir des inexactitudes. L'Utilisateur est seul responsable de l'utilisation et de l'interprétation de ces informations.
+La responsabilité totale de Cédric Legrand envers vous pour tous les dommages ne dépassera en aucun cas le montant total des frais d'abonnement que vous avez payés au cours des douze (12) derniers mois précédant la réclamation.
 
-La responsabilité de Cédric Legrand ne pourra être engagée en cas de force majeure, de dysfonctionnement du réseau ou des serveurs, ou de tout autre événement échappant à son contrôle raisonnable. En tout état de cause, sauf en cas de faute lourde ou intentionnelle, la responsabilité de Cédric Legrand est limitée au montant de l'abonnement payé par l'Utilisateur pour la période en cours.
+## Article 9 — Obligations de l'Utilisateur
+Vous êtes seul responsable du contenu que vous créez dans l'Application. Vous vous engagez à respecter les lois en vigueur et à ne pas porter atteinte aux droits de tiers. Vous vous interdisez d'utiliser l'Application pour harceler, abuser, menacer ou diffamer quiconque.
 
-## Article 9 — Protection des données personnelles
-La collecte et le traitement des données à caractère personnel de l'Utilisateur sont régis par notre Politique de Confidentialité, qui fait partie intégrante des présentes CGU.
+## Article 10 — Propriété Intellectuelle
+L'Utilisateur et Cédric Legrand reconnaissent qu'en cas de réclamation d'un tiers selon laquelle l'Application ou son utilisation enfreint les droits de propriété intellectuelle de ce tiers, Cédric Legrand, et non Apple ou Google, sera seul responsable de l'enquête, de la défense, du règlement et de la décharge de cette réclamation.
 
-## Article 10 — Modification des CGU
-Cédric Legrand se réserve le droit de modifier les présentes CGU à tout moment. L'Utilisateur sera informé des modifications et devra les accepter pour continuer à utiliser l'Application.
+Tous les droits de propriété intellectuelle sur l'Application appartiennent exclusivement à Cédric Legrand.
 
-## Article 11 — Droit applicable et Juridiction
-Les présentes CGU sont soumises au droit belge. En cas de litige, et à défaut de résolution amiable, compétence exclusive est attribuée aux tribunaux francophones de Bruxelles.
+## Article 11 — Consentement à l'Utilisation des Données
+Vous acceptez que Cédric Legrand puisse collecter et utiliser des données techniques et des informations connexes pour faciliter la fourniture de mises à jour, le support produit et d'autres services. Ces informations sont utilisées sous une forme qui ne vous identifie pas personnellement.
+
+## Article 12 — Services Externes et Conditions des Tiers
+L'Application peut permettre l'accès à des services de tiers (« Services Externes »). Vous acceptez d'utiliser ces services à vos propres risques. Cédric Legrand n'est pas responsable du contenu ou de l'exactitude de ces services. Vous devez également vous conformer aux conditions de service des tiers applicables lors de l'utilisation de l'Application.
+
+## Article 13 — Protection des Données Personnelles
+La collecte et le traitement de vos données sont régis par notre Politique de Confidentialité, qui fait partie intégrante de ces CGU.
+
+## Article 14 — Conformité Légale
+L'Utilisateur déclare et garantit qu'il :
+- (i) n'est pas situé dans un pays soumis à un embargo du gouvernement des États-Unis, ou désigné par celui-ci comme un pays « soutenant le terrorisme » ;
+- (ii) et ne figure sur aucune liste du gouvernement des États-Unis des parties interdites ou restreintes.
+
+## Article 15 — Modification et Résiliation
+Cédric Legrand se réserve le droit de modifier ces CGU à tout moment. Vos droits prendront fin automatiquement si vous ne respectez pas l'une de leurs conditions.
+
+## Article 16 — Droit Applicable et Juridiction
+Ces CGU sont régies par le droit belge. En cas de litige, compétence exclusive est attribuée aux tribunaux francophones de Bruxelles (Belgique).
+
+## Article 17 — Tiers Bénéficiaire
+L'Utilisateur et Cédric Legrand reconnaissent et acceptent qu'Apple et Google, ainsi que leurs filiales respectives, sont des tiers bénéficiaires des présentes CGU et que, dès votre acceptation de ces CGU, Apple et Google auront le droit de les faire appliquer à votre encontre.
+
+## Article 18 — Dispositions Générales
+Si une clause de ces CGU est jugée inapplicable, les autres clauses resteront en vigueur.

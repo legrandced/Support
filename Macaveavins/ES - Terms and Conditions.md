@@ -1,50 +1,83 @@
-# Condiciones Generales de Uso
+# Términos de Uso
 
 En vigor desde el 01/09/2025
 
-## Artículo 1 — Objeto y Definiciones
-Las presentes Condiciones Generales de Uso (en adelante «CGU») tienen por objeto el marco jurídico de la aplicación móvil «Mi bodega de vinos» (en adelante la «Aplicación») y definir las condiciones de acceso y uso de los servicios por parte del «Usuario».
+## Artículo 1 — Objeto, Aceptación y Reconocimiento
+Estos Términos de Uso (en adelante 'TdU') rigen su acceso y uso de la aplicación móvil « Mi bodega de vinos » (en adelante la 'Aplicación'), publicada por Cédric Legrand.
 
-La aceptación de estas CGU es indispensable para cualquier registro y uso de la Aplicación.
+El Usuario y Cédric Legrand reconocen que estos TdU se celebran únicamente entre el Usuario y Cédric Legrand, y no con Apple Inc. ('Apple') o Google LLC ('Google'). Cédric Legrand, y no Apple o Google, es el único responsable de la Aplicación y su contenido. Estos TdU no pueden contener reglas de uso que entren en conflicto con los Términos y Condiciones de los Servicios Multimedia de Apple o los Términos de Servicio de Google Play Store vigentes.
 
-## Artículo 2 — Avisos legales
-La edición de la aplicación «Mi bodega de vinos» está a cargo de Cédric Legrand.
-Para cualquier pregunta o solicitud de información, el Usuario puede contactar al editor en la siguiente dirección de correo electrónico: info@macaveavins.app.
+Al descargar, instalar o utilizar la Aplicación, usted reconoce haber leído, entendido y aceptado estar sujeto a la totalidad de estos TdU. Si no está de acuerdo con estos términos, no debe utilizar la Aplicación.
 
-## Artículo 3 — Acceso y Registro
-La Aplicación es accesible de forma gratuita para cualquier Usuario que disponga de acceso a Internet. Todos los gastos en los que incurra el Usuario para acceder al servicio (material informático, software, conexión, etc.) corren por su cuenta.
+## Artículo 2 — Aviso Legal y Contacto
+La Aplicación es publicada por Cédric Legrand. Para cualquier pregunta, reclamación o queja sobre la Aplicación, el Usuario debe contactar a Cédric Legrand en los siguientes datos de contacto:
+- **Dirección**: 6 Chemin du Cyclotron, 1348 Louvain-la-Neuve, Bélgica
+- **Correo electrónico**: info@macaveavins.app
 
-Algunas funcionalidades requieren la creación de una cuenta. Al crear una cuenta, el Usuario se compromete a proporcionar información exacta y a mantenerla actualizada. El acceso a la cuenta está protegido por un nombre de usuario y una contraseña que son estrictamente personales y confidenciales.
+## Artículo 3 — Acceso, Cuenta y Suscripción
+La Aplicación es accesible para cualquier persona con acceso a Internet. Algunas funciones básicas son gratuitas, pero el acceso completo a todas las funciones de la Aplicación requiere la creación de una cuenta y la suscripción a un plan de pago (ver Artículo 5). Al crear una cuenta, usted se compromete a proporcionar información precisa, completa y actualizada. Usted es el único responsable de la confidencialidad de sus credenciales de inicio de sesión y de todas las actividades que ocurran en su cuenta.
 
-## Artículo 4 — Licencia de uso
-Cédric Legrand concede al Usuario un derecho no exclusivo, personal e intransferible de usar la Aplicación con fines personales. Cédric Legrand conserva la plena propiedad y todos los derechos de propiedad intelectual sobre la Aplicación.
+## Artículo 4 — Alcance de la Licencia
+Cédric Legrand le concede una licencia limitada e intransferible para usar la Aplicación en cualquier dispositivo compatible que posea o controle, y según lo permitido por las Reglas de Uso establecidas en los Términos y Condiciones de los Servicios Multimedia de Apple y los Términos de Servicio de Google Play Store.
 
-## Artículo 5 — Servicios y Suscripciones Premium
-La Aplicación ofrece funcionalidades gratuitas así como funcionalidades avanzadas (en adelante los «Servicios Premium») accesibles mediante una suscripción de pago. Los Servicios Premium incluyen, entre otros, un número ilimitado de escaneos, la creación de varios planos de bodegas y la exportación de datos.
+Usted no puede:
+- (a) alquilar, arrendar, prestar, vender, redistribuir o sublicenciar la Aplicación;
+- (b) realizar ingeniería inversa, descompilar o desensamblar la Aplicación;
+- (c) copiar, modificar o crear obras derivadas de la Aplicación;
+- (d) utilizar la Aplicación para fines ilegales o no autorizados.
 
-Las suscripciones se gestionan a través de las plataformas de la App Store de Apple y de la Google Play Store. Se suscriben por un período mensual o anual y se renuevan automáticamente, salvo anulación por parte del Usuario directamente desde la configuración de su cuenta de Apple o Google al menos 24 horas antes del final del período en curso. De conformidad con la legislación vigente, al suscribirse y acceder inmediatamente al contenido digital, el Usuario reconoce que pierde su derecho de desistimiento.
+## Artículo 5 — Servicios Premium y Suscripciones
+1.  **Descripción**: La Aplicación ofrece funciones avanzadas ('Servicios Premium') accesibles mediante suscripciones de pago mensuales o anuales.
+2.  **Suscripción y Renovación**: Las suscripciones se gestionan exclusivamente a través de las plataformas de distribución de aplicaciones (la App Store de Apple para iOS y la Google Play Store para Android). El pago se cargará a su cuenta de App Store o Google Play en el momento de la confirmación de la compra. Las suscripciones se renuevan automáticamente a menos que la renovación automática se desactive al menos 24 horas antes del final del período actual.
+3.  **Cancelación**: Puede gestionar y cancelar sus suscripciones en cualquier momento accediendo a la configuración de su cuenta en la App Store o Google Play Store. La cancelación entrará en vigor al final del período de suscripción actual.
+4.  **Cambios de Precio**: Cédric Legrand se reserva el derecho de modificar los precios de las suscripciones. Cualquier cambio de precio se aplicará al siguiente período de renovación, previa notificación.
 
-## Artículo 6 — Obligaciones del Usuario
-El Usuario es responsable de los datos que publica en la Aplicación (información sobre vinos, fotografías, etc.). Se compromete a respetar las leyes vigentes y a no vulnerar los derechos de terceros.
+## Artículo 6 — Mantenimiento y Soporte
+Cédric Legrand es el único responsable de proporcionar cualquier servicio de mantenimiento y soporte para la Aplicación, según se especifica en estos TdU o según lo exija la ley aplicable. El Usuario y Cédric Legrand reconocen que Apple y Google no tienen obligación alguna de proporcionar servicios de mantenimiento y soporte con respecto a la Aplicación.
 
-Se prohíbe al Usuario:
-- Alquilar, vender, distribuir u otorgar en sublicencia la Aplicación.
-- Realizar ingeniería inversa, descompilar o desensamblar la Aplicación.
-- Utilizar la Aplicación con fines ilegales o no autorizados.
+## Artículo 7 — Garantía
+Cédric Legrand es el único responsable de cualquier garantía de producto, ya sea expresa o implícita por ley, en la medida en que no se renuncie a ella de manera efectiva. En caso de que la Aplicación no cumpla con alguna garantía aplicable, el Usuario puede notificar a la plataforma de compra (Apple o Google), que podrá reembolsar el precio de compra de la Aplicación. En la máxima medida permitida por la ley aplicable, ni Apple ni Google tendrán ninguna otra obligación de garantía con respecto a la Aplicación. Cualquier otra reclamación, pérdida, responsabilidad, daño, costo o gasto atribuible a cualquier incumplimiento de una garantía será responsabilidad exclusiva de Cédric Legrand.
 
-## Artículo 7 — Propiedad intelectual
-Las marcas, logotipos, así como todos los contenidos de la Aplicación (textos, imágenes, código, etc.) son propiedad exclusiva de Cédric Legrand y están protegidos por el Código de la propiedad intelectual. Cualquier reproducción, publicación o copia sin autorización previa está estrictamente prohibida.
+La Aplicación se proporciona 'tal cual'. Cédric Legrand renuncia a todas las garantías, incluidas las garantías implícitas de comerciabilidad o idoneidad para un propósito particular. La información proporcionada por la Aplicación, especialmente la de la función de escaneo de etiquetas, es solo para fines informativos y no está garantizada.
 
-## Artículo 8 — Responsabilidad y Garantías
-La Aplicación se proporciona «tal cual». Cédric Legrand no garantiza que esté libre de defectos, errores u omisiones. La información difundida, especialmente la obtenida a través de la funcionalidad de escaneo de etiquetas por inteligencia artificial, se proporciona a título indicativo y puede contener inexactitudes. El Usuario es el único responsable del uso y la interpretación de esta información.
+## Artículo 8 — Reclamaciones y Limitación de Responsabilidad
+El Usuario y Cédric Legrand reconocen que Cédric Legrand, y no Apple o Google, es responsable de atender cualquier reclamación del Usuario o de un tercero relacionada con la Aplicación, incluyendo:
+- (i) reclamaciones de responsabilidad por productos defectuosos;
+- (ii) cualquier reclamación de que la Aplicación no cumple con algún requisito legal o reglamentario aplicable;
+- (iii) y reclamaciones que surjan bajo la legislación de protección al consumidor o privacidad.
 
-La responsabilidad de Cédric Legrand no podrá ser exigida en caso de fuerza mayor, mal funcionamiento de la red o de los servidores, o de cualquier otro evento que escape a su control razonable. En cualquier caso, salvo en caso de falta grave o intencionada, la responsabilidad de Cédric Legrand se limita al importe de la suscripción pagada por el Usuario para el período en curso.
+La responsabilidad total de Cédric Legrand hacia usted por todos los daños no excederá en ningún caso el monto total de las tarifas de suscripción que haya pagado durante los doce (12) meses anteriores a la reclamación.
 
-## Artículo 9 — Protección de datos personales
-La recopilación y el tratamiento de los datos de carácter personal del Usuario se rigen por nuestra Política de Privacidad, que forma parte integrante de las presentes CGU.
+## Artículo 9 — Obligaciones del Usuario
+Usted es el único responsable del contenido que crea en la Aplicación. Usted se compromete a cumplir con las leyes aplicables y a no infringir los derechos de terceros. Tiene prohibido usar la Aplicación para acosar, abusar, amenazar o difamar a cualquier persona.
 
-## Artículo 10 — Modificación de las CGU
-Cédric Legrand se reserva el derecho de modificar las presentes CGU en cualquier momento. El Usuario será informado de las modificaciones y deberá aceptarlas para continuar utilizando la Aplicación.
+## Artículo 10 — Propiedad Intelectual
+El Usuario y Cédric Legrand reconocen que, en caso de cualquier reclamación de un tercero de que la Aplicación o su uso infringe los derechos de propiedad intelectual de ese tercero, Cédric Legrand, y no Apple o Google, será el único responsable de la investigación, defensa, acuerdo y descargo de dicha reclamación de infracción de propiedad intelectual.
 
-## Artículo 11 — Derecho aplicable y Jurisdicción
-Las presentes CGU están sujetas al derecho belga. En caso de litigio, y a falta de resolución amistosa, la competencia exclusiva se atribuye a los tribunales francófonos de Bruselas.
+Todos los derechos de propiedad intelectual de la Aplicación pertenecen exclusivamente a Cédric Legrand.
+
+## Artículo 11 — Consentimiento para el Uso de Datos
+Usted acepta que Cédric Legrand pueda recopilar y utilizar datos técnicos e información relacionada para facilitar la provisión de actualizaciones de software, soporte de productos y otros servicios. Esta información se utiliza de una forma que no lo identifica personalmente.
+
+## Artículo 12 — Servicios Externos y Términos de Terceros
+La Aplicación puede permitir el acceso a servicios de terceros ('Servicios Externos'). Usted acepta usar estos servicios bajo su propio riesgo. Cédric Legrand no es responsable del contenido o la exactitud de estos servicios. También debe cumplir con los términos de servicio de terceros aplicables al usar la Aplicación.
+
+## Artículo 13 — Protección de Datos Personales
+La recopilación y el tratamiento de sus datos se rigen por nuestra Política de Privacidad, que es parte integral de estos TdU.
+
+## Artículo 14 — Cumplimiento Legal
+El Usuario declara y garantiza que:
+- (i) no se encuentra en un país sujeto a un embargo del gobierno de los EE. UU., o que ha sido designado por el gobierno de los EE. UU. como un país que 'apoya el terrorismo';
+- (ii) y no está incluido en ninguna lista del gobierno de los EE. UU. de partes prohibidas o restringidas.
+
+## Artículo 15 — Modificación y Rescisión
+Cédric Legrand se reserva el derecho de modificar estos TdU en cualquier momento. Sus derechos se rescindirán automáticamente si no cumple con alguno de sus términos.
+
+## Artículo 16 — Ley Aplicable y Jurisdicción
+Estos TdU se rigen por la ley belga. En caso de disputa, se otorga jurisdicción exclusiva a los tribunales de habla francesa de Bruselas (Bélgica).
+
+## Artículo 17 — Tercero Beneficiario
+El Usuario y Cédric Legrand reconocen y aceptan que Apple y Google, y sus respectivas subsidiarias, son terceros beneficiarios de estos TdU, y que, tras su aceptación de estos TdU, Apple y Google tendrán el derecho de hacerlos cumplir en su contra.
+
+## Artículo 18 — Disposiciones Generales
+Si alguna disposición de estos TdU se considera inaplicable, las disposiciones restantes permanecerán en vigor.

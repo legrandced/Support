@@ -1,50 +1,83 @@
 # Algemene Gebruiksvoorwaarden
 
-Van kracht op 01/09/2025
+Van kracht vanaf 01/09/2025
 
-## Artikel 1 — Onderwerp en Definities
-Deze Algemene Gebruiksvoorwaarden (hierna 'AGV') hebben tot doel het juridische kader van de mobiele applicatie 'Mijn wijnkelder' (hierna de 'Applicatie') te regelen en de voorwaarden voor toegang tot en gebruik van de diensten door de 'Gebruiker' te definiëren.
+## Artikel 1 — Doel, Aanvaarding en Erkenning
+Deze Gebruiksvoorwaarden (hierna 'GV') regelen uw toegang tot en gebruik van de mobiele applicatie « Mijn wijnkelder » (hierna de 'Applicatie'), uitgegeven door Cédric Legrand.
 
-De aanvaarding van deze AGV is onmisbaar voor elke inschrijving en elk gebruik van de Applicatie.
+De Gebruiker en Cédric Legrand erkennen dat deze GV uitsluitend worden gesloten tussen de Gebruiker en Cédric Legrand, en niet met Apple Inc. ('Apple') of Google LLC ('Google'). Cédric Legrand, en niet Apple of Google, is als enige verantwoordelijk voor de Applicatie en de inhoud ervan. Deze GV mogen geen gebruiksregels bevatten die in strijd zijn met de Algemene Voorwaarden van Apple Media Services of de Servicevoorwaarden van de Google Play Store die van kracht zijn.
 
-## Artikel 2 — Wettelijke vermeldingen
-De uitgave van de applicatie 'Mijn wijnkelder' wordt verzorgd door Cédric Legrand.
-Voor elke vraag of verzoek om informatie kan de Gebruiker contact opnemen met de uitgever op het volgende e-mailadres: info@macaveavins.app.
+Door de Applicatie te downloaden, installeren of gebruiken, erkent u dat u al deze GV hebt gelezen, begrepen en ermee instemt gebonden te zijn. Als u niet akkoord gaat met deze voorwaarden, mag u de Applicatie niet gebruiken.
 
-## Artikel 3 — Toegang en Inschrijving
-De Applicatie is gratis toegankelijk voor elke Gebruiker met internettoegang. Alle kosten die de Gebruiker maakt om toegang te krijgen tot de dienst (hardware, software, verbinding, enz.) zijn voor zijn rekening.
+## Artikel 2 — Wettelijke Vermelding en Contact
+De Applicatie wordt uitgegeven door Cédric Legrand. Voor vragen, claims of klachten met betrekking tot de Applicatie, dient de Gebruiker contact op te nemen met Cédric Legrand op de volgende contactgegevens:
+- **Adres**: 6 Chemin du Cyclotron, 1348 Louvain-la-Neuve, België
+- **E-mail**: info@macaveavins.app
 
-Sommige functies vereisen het aanmaken van een account. Door een account aan te maken, verbindt de Gebruiker zich ertoe accurate informatie te verstrekken en deze up-to-date te houden. De toegang tot het account is beveiligd met een gebruikersnaam en een wachtwoord die strikt persoonlijk en vertrouwelijk zijn.
+## Artikel 3 — Toegang, Account en Abonnement
+De Applicatie is toegankelijk voor iedereen met een internetverbinding. Sommige basisfuncties zijn gratis, maar volledige toegang tot alle functies van de Applicatie vereist het aanmaken van een account en het afsluiten van een betaald abonnement (zie Artikel 5). Door een account aan te maken, verbindt u zich ertoe nauwkeurige, volledige en actuele informatie te verstrekken. U bent als enige verantwoordelijk voor de vertrouwelijkheid van uw inloggegevens en voor alle activiteiten die via uw account plaatsvinden.
 
-## Artikel 4 — Gebruikslicentie
-Cédric Legrand verleent de Gebruiker een niet-exclusief, persoonlijk en niet-overdraagbaar recht om de Applicatie voor persoonlijke doeleinden te gebruiken. Cédric Legrand behoudt de volledige eigendom en alle intellectuele eigendomsrechten op de Applicatie.
+## Artikel 4 — Reikwijdte van de Licentie
+Cédric Legrand verleent u een beperkte, niet-overdraagbare licentie om de Applicatie te gebruiken op elk compatibel apparaat dat u bezit of beheert, en zoals toegestaan door de Gebruiksregels uiteengezet in de Algemene Voorwaarden van Apple Media Services en de Servicevoorwaarden van de Google Play Store.
+
+U mag niet:
+- (a) de Applicatie verhuren, leasen, uitlenen, verkopen, herdistribueren of sublicentiëren;
+- (b) de Applicatie reverse-engineeren, decompileren of demonteren;
+- (c) de Applicatie kopiëren, wijzigen of er afgeleide werken van maken;
+- (d) de Applicatie gebruiken voor illegale of ongeoorloofde doeleinden.
 
 ## Artikel 5 — Premium Diensten en Abonnementen
-De Applicatie biedt gratis functionaliteiten en geavanceerde functionaliteiten (hierna de 'Premium Diensten') die toegankelijk zijn via een betaald abonnement. De Premium Diensten omvatten, zonder beperking, een onbeperkt aantal scans, het aanmaken van meerdere kelderplannen en gegevensexport.
+1.  **Beschrijving**: De Applicatie biedt geavanceerde functies ('Premium Diensten') die toegankelijk zijn via betaalde maandelijkse of jaarlijkse abonnementen.
+2.  **Abonnement en Verlenging**: Abonnementen worden uitsluitend beheerd via de applicatiedistributieplatforms (Apple's App Store voor iOS en de Google Play Store voor Android). De betaling wordt bij de bevestiging van de aankoop in rekening gebracht op uw App Store- of Google Play-account. Abonnementen worden automatisch verlengd, tenzij automatische verlenging ten minste 24 uur voor het einde van de huidige periode wordt uitgeschakeld.
+3.  **Annulering**: U kunt uw abonnementen op elk moment beheren en annuleren door naar uw accountinstellingen in de App Store of Google Play Store te gaan. De annulering wordt van kracht aan het einde van de huidige abonnementsperiode.
+4.  **Prijswijzigingen**: Cédric Legrand behoudt zich het recht voor om de abonnementsprijzen te wijzigen. Elke prijswijziging wordt toegepast op de volgende verlengingsperiode, onder voorbehoud van voorafgaande kennisgeving.
 
-Abonnementen worden beheerd via de platforms van de Apple App Store en de Google Play Store. Ze worden afgesloten voor een maandelijkse of jaarlijkse periode en worden automatisch verlengd, tenzij de Gebruiker ze rechtstreeks annuleert via de instellingen van zijn Apple- of Google-account, minstens 24 uur voor het einde van de lopende periode. In overeenstemming met de geldende wetgeving, erkent de Gebruiker bij het afsluiten van een abonnement en onmiddellijke toegang tot de digitale inhoud, dat hij zijn herroepingsrecht verliest.
+## Artikel 6 — Onderhoud en Ondersteuning
+Cédric Legrand is als enige verantwoordelijk voor het verlenen van onderhouds- en ondersteuningsdiensten voor de Applicatie, zoals gespecificeerd in deze GV, of zoals vereist onder de toepasselijke wetgeving. De Gebruiker en Cédric Legrand erkennen dat Apple en Google geen enkele verplichting hebben om onderhouds- en ondersteuningsdiensten te verlenen met betrekking tot de Applicatie.
 
-## Artikel 6 — Verplichtingen van de Gebruiker
-De Gebruiker is verantwoordelijk voor de gegevens die hij in de Applicatie publiceert (informatie over wijnen, foto's, enz.). Hij verbindt zich ertoe de geldende wetten te respecteren en geen inbreuk te maken op de rechten van derden.
+## Artikel 7 — Garantie
+Cédric Legrand is als enige verantwoordelijk voor alle productgaranties, hetzij expliciet of impliciet door de wet, voor zover niet effectief afgewezen. In het geval dat de Applicatie niet voldoet aan een toepasselijke garantie, kan de Gebruiker het aankoopplatform (Apple of Google) hiervan op de hoogte stellen, dat de aankoopprijs van de Applicatie kan terugbetalen. Voor zover maximaal toegestaan door de toepasselijke wetgeving, hebben noch Apple noch Google enige andere garantieverplichting met betrekking tot de Applicatie. Alle andere claims, verliezen, aansprakelijkheden, schade, kosten of uitgaven die te wijten zijn aan het niet voldoen aan een garantie, vallen onder de exclusieve verantwoordelijkheid van Cédric Legrand.
 
-Het is de Gebruiker verboden om:
-- De Applicatie te verhuren, verkopen, distribueren of in sublicentie te geven.
-- De Applicatie te onderwerpen aan reverse engineering, decompileren of demonteren.
-- De Applicatie te gebruiken voor illegale of niet-geautoriseerde doeleinden.
+De Applicatie wordt geleverd 'in de huidige staat'. Cédric Legrand wijst alle garanties af, inclusief de impliciete garanties van verkoopbaarheid of geschiktheid for een bepaald doel. De informatie die door de Applicatie wordt verstrekt, met name die van de labelscanfunctie, is alleen voor informatieve doeleinden en wordt niet gegarandeerd.
 
-## Artikel 7 — Intellectuele eigendom
-De merken, logo's en alle inhoud van de Applicatie (teksten, afbeeldingen, code, enz.) zijn de exclusieve eigendom van Cédric Legrand en worden beschermd door de Code van Intellectuele Eigendom. Elke reproductie, publicatie of kopie zonder voorafgaande toestemming is strikt verboden.
+## Artikel 8 — Claims en Beperking van Aansprakelijkheid
+De Gebruiker en Cédric Legrand erkennen dat Cédric Legrand, en niet Apple of Google, verantwoordelijk is voor het afhandelen van claims van de Gebruiker of een derde partij met betrekking tot de Applicatie, inclusief:
+- (i) productaansprakelijkheidsclaims;
+- (ii) elke claim dat de Applicatie niet voldoet aan een toepasselijke wettelijke of regelgevende vereiste;
+- (iii) en claims die voortvloeien uit consumentenbescherming of privacywetgeving.
 
-## Artikel 8 — Aansprakelijkheid en Garanties
-De Applicatie wordt geleverd 'zoals ze is'. Cédric Legrand garandeert niet dat ze vrij is van defecten, fouten of weglatingen. De verspreide informatie, met name die afkomstig van de functie voor het scannen van etiketten door kunstmatige intelligentie, wordt uitsluitend ter informatie verstrekt en kan onnauwkeurigheden bevatten. De Gebruiker is als enige verantwoordelijk voor het gebruik en de interpretatie van deze informatie.
+De totale aansprakelijkheid van Cédric Legrand jegens u voor alle schade zal in geen geval het totale bedrag van de abonnementskosten overschrijden dat u in de twaalf (12) maanden voorafgaand aan de claim hebt betaald.
 
-De aansprakelijkheid van Cédric Legrand kan niet worden ingeroepen in geval van overmacht, storing van het netwerk of de servers, of elke andere gebeurtenis die buiten zijn redelijke controle valt. In elk geval, behalve in geval van grove of opzettelijke fout, is de aansprakelijkheid van Cédric Legrand beperkt tot het bedrag van het abonnement dat door de Gebruiker is betaald voor de lopende periode.
+## Artikel 9 — Verplichtingen van de Gebruiker
+U bent als enige verantwoordelijk voor de inhoud die u in de Applicatie maakt. U verbindt zich ertoe de toepasselijke wetgeving na te leven en geen inbreuk te maken op de rechten van derden. Het is u verboden de Applicatie te gebruiken om iemand lastig te vallen, te misbruiken, te bedreigen of te belasteren.
 
-## Artikel 9 — Bescherming van persoonsgegevens
-De verzameling en verwerking van de persoonsgegevens van de Gebruiker worden beheerst door ons Privacybeleid, dat een integraal onderdeel is van deze AGV.
+## Artikel 10 — Intellectueel Eigendom
+De Gebruiker en Cédric Legrand erkennen dat, in het geval van een claim van een derde partij dat de Applicatie of uw gebruik ervan inbreuk maakt op de intellectuele eigendomsrechten van die derde partij, Cédric Legrand, en niet Apple of Google, als enige verantwoordelijk zal zijn voor het onderzoek, de verdediging, de schikking en de kwijting van een dergelijke claim wegens inbreuk op intellectueel eigendom.
 
-## Artikel 10 — Wijziging van de AGV
-Cédric Legrand behoudt zich het recht voor om deze AGV op elk moment te wijzigen. De Gebruiker zal op de hoogte worden gebracht van de wijzigingen en zal deze moeten accepteren om de Applicatie te blijven gebruiken.
+Alle intellectuele eigendomsrechten op de Applicatie behoren uitsluitend toe aan Cédric Legrand.
 
-## Artikel 11 — Toepasselijk recht en bevoegdheid
-Deze AGV zijn onderworpen aan het Belgisch recht. In geval van een geschil, en bij gebrek aan een minnelijke schikking, wordt exclusieve bevoegdheid verleend aan de Franstalige rechtbanken van Brussel.
+## Artikel 11 — Toestemming voor Gegevensgebruik
+U gaat ermee akkoord dat Cédric Legrand technische gegevens en gerelateerde informatie kan verzamelen en gebruiken om de levering van software-updates, productondersteuning en andere diensten te vergemakkelijken. Deze informatie wordt gebruikt in een vorm die u niet persoonlijk identificeert.
+
+## Artikel 12 — Externe Diensten en Voorwaarden van Derden
+De Applicatie kan toegang bieden tot diensten van derden ('Externe Diensten'). U stemt ermee in deze diensten op eigen risico te gebruiken. Cédric Legrand is niet verantwoordelijk voor de inhoud of nauwkeurigheid van deze diensten. U moet ook voldoen aan de toepasselijke servicevoorwaarden van derden wanneer u de Applicatie gebruikt.
+
+## Artikel 13 — Bescherming van Persoonsgegevens
+De verzameling en verwerking van uw gegevens worden geregeld door ons Privacybeleid, dat een integraal onderdeel is van deze GV.
+
+## Artikel 14 — Wettelijke Naleving
+De Gebruiker verklaart en garandeert dat hij/zij:
+- (i) zich niet bevindt in een land dat onder een embargo van de Amerikaanse overheid valt, of dat door de Amerikaanse overheid is aangewezen als een 'terrorisme-ondersteunend' land;
+- (ii) en niet op een lijst van de Amerikaanse overheid van verboden of beperkte partijen staat.
+
+## Artikel 15 — Wijziging en Beëindiging
+Cédric Legrand behoudt zich het recht voor om deze GV op elk moment te wijzigen. Uw rechten worden automatisch beëindigd als u een van de voorwaarden niet naleeft.
+
+## Artikel 16 — Toepasselijk Recht en Jurisdictie
+Deze GV worden beheerst door het Belgische recht. In geval van een geschil wordt exclusieve jurisdictie verleend aan de Franstalige rechtbanken van Brussel (België).
+
+## Artikel 17 — Derde Begunstigde
+De Gebruiker en Cédric Legrand erkennen en gaan ermee akkoord dat Apple en Google, en hun respectieve dochterondernemingen, derde begunstigden zijn van deze GV, en dat, na uw aanvaarding van deze GV, Apple en Google het recht hebben om deze tegen u af te dwingen.
+
+## Artikel 18 — Algemene Bepalingen
+Indien een bepaling van deze GV niet-afdwingbaar wordt geacht, blijven de overige bepalingen van kracht.

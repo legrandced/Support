@@ -1,50 +1,83 @@
-# General Terms of Use
+# Terms of Use
 
 Effective as of 01/09/2025
 
-## Article 1 — Object and Definitions
-These General Terms of Use (hereinafter 'T&Cs') aim to provide a legal framework for the mobile application 'My Wine Cellar' (hereinafter the 'Application') and to define the conditions of access and use of the services by the 'User'.
+## Article 1 — Purpose, Acceptance, and Acknowledgment
+These Terms of Use (hereinafter 'ToU') govern your access to and use of the mobile application « My Wine Cellar » (hereinafter the 'Application'), published by Cédric Legrand.
 
-Acceptance of these T&Cs is essential for any registration and use of the Application.
+The User and Cédric Legrand acknowledge that these ToU are concluded between the User and Cédric Legrand only, and not with Apple Inc. ('Apple') or Google LLC ('Google'). Cédric Legrand, and not Apple or Google, is solely responsible for the Application and its content. These ToU may not contain usage rules that conflict with the Apple Media Services Terms and Conditions or the Google Play Store Terms of Service in effect.
 
-## Article 2 — Legal Notices
-The editing of the application 'My Wine Cellar' is provided by Cédric Legrand.
-For any question or request for information, the User can contact the editor at the following email address: info@macaveavins.app.
+By downloading, installing, or using the Application, you acknowledge that you have read, understood, and agree to be bound by all of these ToU. If you do not agree with these terms, you must not use the Application.
 
-## Article 3 — Access and Registration
-The Application is accessible for free to any User with Internet access. All costs incurred by the User to access the service (computer hardware, software, connection, etc.) are at their expense.
+## Article 2 — Legal Notice and Contact
+The Application is published by Cédric Legrand. For any questions, claims, or complaints regarding the Application, the User must contact Cédric Legrand at the following contact details:
+- **Address**: 6 Chemin du Cyclotron, 1348 Louvain-la-Neuve, Belgium
+- **E-mail**: info@macaveavins.app
 
-Some features require creating an account. By creating an account, the User agrees to provide accurate information and to keep it up to date. Access to the account is protected by a username and password which are strictly personal and confidential.
+## Article 3 — Access, Account, and Subscription
+The Application is accessible to anyone with an internet connection. Some basic features are free, but full access to all features of the Application requires creating an account and subscribing to a paid plan (see Article 5). By creating an account, you agree to provide accurate, complete, and up-to-date information. You are solely responsible for the confidentiality of your login credentials and for all activities that occur under your account.
 
-## Article 4 — License of Use
-Cédric Legrand grants the User a non-exclusive, personal, and non-transferable right to use the Application for personal purposes. Cédric Legrand retains full ownership and all intellectual property rights to the Application.
+## Article 4 — Scope of License
+Cédric Legrand grants you a limited, non-transferable license to use the Application on any compatible device that you own or control, and as permitted by the Usage Rules set forth in the Apple Media Services Terms and Conditions and the Google Play Store Terms of Service.
+
+You may not:
+- (a) rent, lease, lend, sell, redistribute, or sublicense the Application;
+- (b) reverse-engineer, decompile, or disassemble the Application;
+- (c) copy, modify, or create derivative works of the Application;
+- (d) use the Application for any illegal or unauthorized purpose.
 
 ## Article 5 — Premium Services and Subscriptions
-The Application offers free features as well as advanced features (hereinafter the 'Premium Services') accessible via a paid subscription. Premium Services include, but are not limited to, an unlimited number of scans, the creation of multiple cellar plans, and data export.
+1.  **Description**: The Application offers advanced features ('Premium Services') accessible via paid monthly or annual subscriptions.
+2.  **Subscription and Renewal**: Subscriptions are managed exclusively through the application distribution platforms (Apple's App Store for iOS and the Google Play Store for Android). Payment will be charged to your App Store or Google Play account at the confirmation of purchase. Subscriptions automatically renew unless auto-renewal is turned off at least 24 hours before the end of the current period.
+3.  **Cancellation**: You can manage and cancel your subscriptions at any time by going to your account settings on the App Store or Google Play Store. The cancellation will take effect at the end of the current subscription period.
+4.  **Price Changes**: Cédric Legrand reserves the right to modify the subscription prices. Any price change will apply to the next renewal period, subject to prior notice.
 
-Subscriptions are managed via the Apple App Store and Google Play Store platforms. They are subscribed for a monthly or annual period and are automatically renewed, unless canceled by the User directly from their Apple or Google account settings at least 24 hours before the end of the current period. In accordance with current legislation, by subscribing to a subscription and immediately accessing digital content, the User acknowledges that they lose their right of withdrawal.
+## Article 6 — Maintenance and Support
+Cédric Legrand is solely responsible for providing any maintenance and support services for the Application, as specified in these ToU, or as required under applicable law. The User and Cédric Legrand acknowledge that Apple and Google have no obligation whatsoever to furnish any maintenance and support services with respect to the Application.
 
-## Article 6 — User's Obligations
-The User is responsible for the data they publish in the Application (wine information, photographs, etc.). They agree to comply with the laws in force and not to infringe on the rights of third parties.
+## Article 7 — Warranty
+Cédric Legrand is solely responsible for any product warranties, whether express or implied by law, to the extent not effectively disclaimed. In the event of any failure of the Application to conform to any applicable warranty, the User may notify the purchasing platform (Apple or Google), which may refund the purchase price for the Application. To the maximum extent permitted by applicable law, neither Apple nor Google will have any other warranty obligation whatsoever with respect to the Application. Any other claims, losses, liabilities, damages, costs, or expenses attributable to any failure to conform to any warranty will be the sole responsibility of Cédric Legrand.
 
-The User is prohibited from:
-- Renting, selling, distributing, or sublicensing the Application.
-- Reverse engineering, decompiling, or disassembling the Application.
-- Using the Application for illegal or unauthorized purposes.
+The Application is provided 'as is'. Cédric Legrand disclaims all warranties, including the implied warranties of merchantability or fitness for a particular purpose. The information provided by the Application, especially that from the label scanning feature, is for informational purposes only and is not guaranteed.
 
-## Article 7 — Intellectual Property
-The trademarks, logos, as well as all the contents of the Application (texts, images, code, etc.) are the exclusive property of Cédric Legrand and are protected by the Intellectual Property Code. Any reproduction, publication, or copy without prior authorization is strictly prohibited.
+## Article 8 — Claims and Limitation of Liability
+The User and Cédric Legrand acknowledge that Cédric Legrand, and not Apple or Google, is responsible for addressing any claims of the User or any third party relating to the Application, including:
+- (i) product liability claims;
+- (ii) any claim that the Application fails to conform to any applicable legal or regulatory requirement;
+- (iii) and claims arising under consumer protection or privacy legislation.
 
-## Article 8 — Liability and Warranties
-The Application is provided 'as is'. Cédric Legrand does not guarantee that it is free of defects, errors, or omissions. The information provided, especially that from the artificial intelligence label scanning feature, is for informational purposes only and may contain inaccuracies. The User is solely responsible for the use and interpretation of this information.
+The total liability of Cédric Legrand to you for all damages shall in no event exceed the total amount of subscription fees you have paid during the twelve (12) months prior to the claim.
 
-The liability of Cédric Legrand cannot be engaged in case of force majeure, network or server malfunction, or any other event beyond its reasonable control. In any case, except in cases of gross or intentional misconduct, the liability of Cédric Legrand is limited to the amount of the subscription paid by the User for the current period.
+## Article 9 — User Obligations
+You are solely responsible for the content you create in the Application. You agree to comply with applicable laws and not to infringe the rights of third parties. You are prohibited from using the Application to harass, abuse, threaten, or defame anyone.
 
-## Article 9 — Protection of Personal Data
-The collection and processing of the User's personal data are governed by our Privacy Policy, which is an integral part of these T&Cs.
+## Article 10 — Intellectual Property
+The User and Cédric Legrand acknowledge that, in the event of any third-party claim that the Application or your use thereof infringes that third party's intellectual property rights, Cédric Legrand, and not Apple or Google, will be solely responsible for the investigation, defense, settlement, and discharge of any such intellectual property infringement claim.
 
-## Article 10 — Modification of the T&Cs
-Cédric Legrand reserves the right to modify these T&Cs at any time. The User will be informed of the changes and must accept them to continue using the Application.
+All intellectual property rights in the Application belong exclusively to Cédric Legrand.
 
-## Article 11 — Applicable Law and Jurisdiction
-These T&Cs are subject to Belgian law. In the event of a dispute, and in the absence of an amicable resolution, exclusive jurisdiction is granted to the French-speaking courts of Brussels.
+## Article 11 — Consent to Use of Data
+You agree that Cédric Legrand may collect and use technical data and related information to facilitate the provision of software updates, product support, and other services. This information is used in a form that does not personally identify you.
+
+## Article 12 — External Services and Third-Party Terms
+The Application may enable access to third-party services ('External Services'). You agree to use these services at your own risk. Cédric Legrand is not responsible for the content or accuracy of these services. You must also comply with applicable third-party terms of service when using the Application.
+
+## Article 13 — Protection of Personal Data
+The collection and processing of your data are governed by our Privacy Policy, which is an integral part of these ToU.
+
+## Article 14 — Legal Compliance
+The User represents and warrants that they:
+- (i) are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a 'terrorist supporting' country;
+- (ii) and are not listed on any U.S. Government list of prohibited or restricted parties.
+
+## Article 15 — Modification and Termination
+Cédric Legrand reserves the right to modify these ToU at any time. Your rights will terminate automatically if you fail to comply with any of its terms.
+
+## Article 16 — Governing Law and Jurisdiction
+These ToU are governed by Belgian law. In the event of a dispute, exclusive jurisdiction is granted to the French-speaking courts of Brussels (Belgium).
+
+## Article 17 — Third-Party Beneficiary
+The User and Cédric Legrand acknowledge and agree that Apple and Google, and their respective subsidiaries, are third-party beneficiaries of these ToU, and that, upon your acceptance of these ToU, Apple and Google will have the right to enforce them against you.
+
+## Article 18 — General Provisions
+If any provision of these ToU is held to be unenforceable, the remaining provisions will remain in effect.
