@@ -1,6 +1,6 @@
 # Términos de Uso
 
-En vigor desde el 01/09/2025
+En vigor desde el 01/04/2026
 
 ## Artículo 1 — Objeto, Aceptación y Reconocimiento
 Estos Términos de Uso (en adelante 'TdU') rigen su acceso y uso de la aplicación móvil « Mi bodega de vinos » (en adelante la 'Aplicación'), publicada por Cédric Legrand.
@@ -59,8 +59,16 @@ Todos los derechos de propiedad intelectual de la Aplicación pertenecen exclusi
 ## Artículo 11 — Consentimiento para el Uso de Datos
 Usted acepta que Cédric Legrand pueda recopilar y utilizar datos técnicos e información relacionada para facilitar la provisión de actualizaciones de software, soporte de productos y otros servicios. Esta información se utiliza de una forma que no lo identifica personalmente.
 
+La Aplicación integra herramientas de análisis y medición publicitaria de terceros (Google Firebase Analytics y Meta Platforms SDK). Estas herramientas recopilan datos de uso y comportamiento en la Aplicación con el fin de mejorar el servicio y medir el rendimiento publicitario. En iOS, su consentimiento explícito se recoge mediante la solicitud de autorización de seguimiento (App Tracking Transparency) antes de activar cualquier seguimiento publicitario. En Android, el seguimiento publicitario está activo de forma predeterminada, de conformidad con los estándares de la plataforma.
+
+Para más información sobre los datos recopilados y los destinatarios terceros, consulte nuestra Política de Privacidad.
+
 ## Artículo 12 — Servicios Externos y Términos de Terceros
 La Aplicación puede permitir el acceso a servicios de terceros ('Servicios Externos'). Usted acepta usar estos servicios bajo su propio riesgo. Cédric Legrand no es responsable del contenido o la exactitud de estos servicios. También debe cumplir con los términos de servicio de terceros aplicables al usar la Aplicación.
+
+La Aplicación integra en particular los siguientes servicios de terceros, cuyos términos de uso y políticas de privacidad le son aplicables:
+- **Google Firebase** (análisis, autenticación, almacenamiento) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (SDK Meta App Events)** (medición publicitaria) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Artículo 13 — Protección de Datos Personales
 La recopilación y el tratamiento de sus datos se rigen por nuestra Política de Privacidad, que es parte integral de estos TdU.

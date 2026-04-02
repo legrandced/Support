@@ -1,6 +1,6 @@
 # Terms of Use
 
-Effective as of 01/09/2025
+Effective as of 01/04/2026
 
 ## Article 1 — Purpose, Acceptance, and Acknowledgment
 These Terms of Use (hereinafter 'ToU') govern your access to and use of the mobile application « My Wine Cellar » (hereinafter the 'Application'), published by Cédric Legrand.
@@ -59,8 +59,16 @@ All intellectual property rights in the Application belong exclusively to Cédri
 ## Article 11 — Consent to Use of Data
 You agree that Cédric Legrand may collect and use technical data and related information to facilitate the provision of software updates, product support, and other services. This information is used in a form that does not personally identify you.
 
+The Application integrates third-party analytics and advertising measurement tools (Google Firebase Analytics and Meta Platforms SDK). These tools collect usage and behavioral data within the Application for the purpose of improving the service and measuring advertising performance. On iOS, your explicit consent is collected via the tracking authorization request (App Tracking Transparency) before any advertising tracking is enabled. On Android, advertising tracking is active by default, in accordance with platform standards.
+
+For more information on the data collected and third-party recipients, please refer to our Privacy Policy.
+
 ## Article 12 — External Services and Third-Party Terms
 The Application may enable access to third-party services ('External Services'). You agree to use these services at your own risk. Cédric Legrand is not responsible for the content or accuracy of these services. You must also comply with applicable third-party terms of service when using the Application.
+
+The Application notably integrates the following third-party services, whose terms of use and privacy policies apply to you:
+- **Google Firebase** (analytics, authentication, storage) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (Meta App Events SDK)** (advertising measurement) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Article 13 — Protection of Personal Data
 The collection and processing of your data are governed by our Privacy Policy, which is an integral part of these ToU.

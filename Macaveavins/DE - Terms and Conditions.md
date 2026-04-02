@@ -1,6 +1,6 @@
 # Allgemeine Nutzungsbedingungen
 
-Gültig ab 01.09.2025
+Gültig ab 01/04/2026
 
 ## Artikel 1 — Zweck, Annahme und Anerkennung
 Diese Nutzungsbedingungen (im Folgenden 'AGB') regeln Ihren Zugriff auf und Ihre Nutzung der mobilen Anwendung « Mein Weinkeller » (im Folgenden die 'Anwendung'), herausgegeben von Cédric Legrand.
@@ -59,8 +59,16 @@ Alle geistigen Eigentumsrechte an der Anwendung gehören ausschließlich Cédric
 ## Artikel 11 — Zustimmung zur Datennutzung
 Sie stimmen zu, dass Cédric Legrand technische Daten und zugehörige Informationen sammeln und verwenden kann, um die Bereitstellung von Software-Updates, Produktsupport und anderen Diensten zu erleichtern. Diese Informationen werden in einer Form verwendet, die Sie nicht persönlich identifiziert.
 
+Die Anwendung integriert Analyse- und Werbemessungstools von Drittanbietern (Google Firebase Analytics und Meta Platforms SDK). Diese Tools erfassen Nutzungs- und Verhaltensdaten in der Anwendung zur Verbesserung des Dienstes und zur Messung der Werbeleistung. Unter iOS wird Ihre ausdrückliche Einwilligung über die Anfrage zur Tracking-Autorisierung (App Tracking Transparency) eingeholt, bevor das Werbe-Tracking aktiviert wird. Unter Android ist das Werbe-Tracking standardmäßig aktiv, entsprechend den Standards der Plattform.
+
+Weitere Informationen zu den erhobenen Daten und den Drittempfängern entnehmen Sie bitte unserer Datenschutzrichtlinie.
+
 ## Artikel 12 — Externe Dienste und Bedingungen Dritter
 Die Anwendung kann den Zugriff auf Dienste Dritter ermöglichen ('Externe Dienste'). Sie erklären sich damit einverstanden, diese Dienste auf eigenes Risiko zu nutzen. Cédric Legrand ist nicht verantwortlich für den Inhalt oder die Richtigkeit dieser Dienste. Sie müssen auch die geltenden Nutzungsbedingungen Dritter bei der Nutzung der Anwendung einhalten.
+
+Die Anwendung integriert insbesondere folgende Drittanbieterdienste, deren Nutzungsbedingungen und Datenschutzrichtlinien für Sie gelten:
+- **Google Firebase** (Analyse, Authentifizierung, Speicherung) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (Meta App Events SDK)** (Werbemessung) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Artikel 13 — Schutz personenbezogener Daten
 Die Erhebung und Verarbeitung Ihrer Daten unterliegt unserer Datenschutzrichtlinie, die Bestandteil dieser AGB ist.

@@ -1,6 +1,6 @@
 # Termos de Uso
 
-Em vigor a partir de 01/09/2025
+Em vigor a partir de 01/04/2026
 
 ## Artigo 1 — Objeto, Aceitação e Reconhecimento
 Estes Termos de Uso (doravante 'TdU') regem o seu acesso e uso do aplicativo móvel « Minha adega » (doravante a 'Aplicação'), publicado por Cédric Legrand.
@@ -59,8 +59,16 @@ Todos os direitos de propriedade intelectual na Aplicação pertencem exclusivam
 ## Artigo 11 — Consentimento para o Uso de Dados
 Você concorda que Cédric Legrand pode coletar e usar dados técnicos e informações relacionadas para facilitar o fornecimento de atualizações de software, suporte ao produto e outros serviços. Essas informações são usadas de uma forma que não o identifica pessoalmente.
 
+A Aplicação integra ferramentas de análise e medição publicitária de terceiros (Google Firebase Analytics e Meta Platforms SDK). Essas ferramentas recolhem dados de utilização e comportamento na Aplicação com o objetivo de melhorar o serviço e medir o desempenho publicitário. No iOS, o seu consentimento explícito é recolhido através do pedido de autorização de rastreamento (App Tracking Transparency) antes de ativar qualquer rastreamento publicitário. No Android, o rastreamento publicitário está ativo por padrão, em conformidade com os padrões da plataforma.
+
+Para mais informações sobre os dados recolhidos e os destinatários terceiros, consulte a nossa Política de Privacidade.
+
 ## Artigo 12 — Serviços Externos e Termos de Terceiros
 A Aplicação pode permitir o acesso a serviços de terceiros ('Serviços Externos'). Você concorda em usar esses serviços por sua conta e risco. Cédric Legrand não é responsável pelo conteúdo ou precisão desses serviços. Você também deve cumprir os termos de serviço de terceiros aplicáveis ao usar a Aplicação.
+
+A Aplicação integra nomeadamente os seguintes serviços de terceiros, cujos termos de utilização e políticas de privacidade lhe são aplicáveis:
+- **Google Firebase** (análise, autenticação, armazenamento) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (SDK Meta App Events)** (medição publicitária) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Artigo 13 — Proteção de Dados Pessoais
 A coleta e o processamento de seus dados são regidos pela nossa Política de Privacidade, que é parte integrante destes TdU.

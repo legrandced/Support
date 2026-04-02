@@ -1,6 +1,6 @@
 # Termini di Utilizzo
 
-In vigore dal 01/09/2025
+In vigore dal 01/04/2026
 
 ## Articolo 1 — Oggetto, Accettazione e Riconoscimento
 I presenti Termini di Utilizzo (di seguito 'TdU') regolano l'accesso e l'uso dell'applicazione mobile « La mia cantina » (di seguito l''Applicazione'), pubblicata da Cédric Legrand.
@@ -59,8 +59,16 @@ Tutti i diritti di proprietà intellettuale sull'Applicazione appartengono esclu
 ## Articolo 11 — Consenso all'Uso dei Dati
 L'utente accetta che Cédric Legrand possa raccogliere e utilizzare dati tecnici e informazioni correlate per facilitare la fornitura di aggiornamenti software, supporto al prodotto e altri servizi. Queste informazioni vengono utilizzate in una forma che non identifica personalmente l'utente.
 
+L'Applicazione integra strumenti di analisi e misurazione pubblicitaria di terze parti (Google Firebase Analytics e Meta Platforms SDK). Questi strumenti raccolgono dati di utilizzo e comportamento nell'Applicazione al fine di migliorare il servizio e misurare le prestazioni pubblicitarie. Su iOS, il consenso esplicito dell'utente viene raccolto tramite la richiesta di autorizzazione al tracciamento (App Tracking Transparency) prima di attivare qualsiasi tracciamento pubblicitario. Su Android, il tracciamento pubblicitario è attivo per impostazione predefinita, in conformità con gli standard della piattaforma.
+
+Per ulteriori informazioni sui dati raccolti e sui destinatari terzi, si prega di consultare la nostra Informativa sulla Privacy.
+
 ## Articolo 12 — Servizi Esterni e Termini di Terze Parti
 L'Applicazione può consentire l'accesso a servizi di terze parti ('Servizi Esterni'). L'utente accetta di utilizzare questi servizi a proprio rischio. Cédric Legrand non è responsabile del contenuto o dell'accuratezza di questi servizi. L'utente deve inoltre rispettare i termini di servizio di terze parti applicabili quando utilizza l'Applicazione.
+
+L'Applicazione integra in particolare i seguenti servizi di terze parti, le cui condizioni d'uso e politiche sulla privacy si applicano all'utente:
+- **Google Firebase** (analisi, autenticazione, archiviazione) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (SDK Meta App Events)** (misurazione pubblicitaria) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Articolo 13 — Protezione dei Dati Personali
 La raccolta e il trattamento dei tuoi dati sono regolati dalla nostra Informativa sulla Privacy, che è parte integrante di questi TdU.

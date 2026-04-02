@@ -1,6 +1,6 @@
 # Algemene Gebruiksvoorwaarden
 
-Van kracht vanaf 01/09/2025
+Van kracht vanaf 01/04/2026
 
 ## Artikel 1 — Doel, Aanvaarding en Erkenning
 Deze Gebruiksvoorwaarden (hierna 'GV') regelen uw toegang tot en gebruik van de mobiele applicatie « Mijn wijnkelder » (hierna de 'Applicatie'), uitgegeven door Cédric Legrand.
@@ -59,8 +59,16 @@ Alle intellectuele eigendomsrechten op de Applicatie behoren uitsluitend toe aan
 ## Artikel 11 — Toestemming voor Gegevensgebruik
 U gaat ermee akkoord dat Cédric Legrand technische gegevens en gerelateerde informatie kan verzamelen en gebruiken om de levering van software-updates, productondersteuning en andere diensten te vergemakkelijken. Deze informatie wordt gebruikt in een vorm die u niet persoonlijk identificeert.
 
+De Applicatie integreert analyse- en reclamemeettools van derden (Google Firebase Analytics en Meta Platforms SDK). Deze tools verzamelen gebruiks- en gedragsgegevens binnen de Applicatie met het oog op de verbetering van de dienst en het meten van de advertentieprestaties. Op iOS wordt uw expliciete toestemming verzameld via het verzoek om trackingautorisatie (App Tracking Transparency) voordat advertentietracking wordt ingeschakeld. Op Android is advertentietracking standaard actief, in overeenstemming met de normen van het platform.
+
+Voor meer informatie over de verzamelde gegevens en de ontvangers van derden verwijzen wij u naar ons Privacybeleid.
+
 ## Artikel 12 — Externe Diensten en Voorwaarden van Derden
 De Applicatie kan toegang bieden tot diensten van derden ('Externe Diensten'). U stemt ermee in deze diensten op eigen risico te gebruiken. Cédric Legrand is niet verantwoordelijk voor de inhoud of nauwkeurigheid van deze diensten. U moet ook voldoen aan de toepasselijke servicevoorwaarden van derden wanneer u de Applicatie gebruikt.
+
+De Applicatie integreert met name de volgende diensten van derden, waarvan de gebruiksvoorwaarden en het privacybeleid op u van toepassing zijn:
+- **Google Firebase** (analyse, authenticatie, opslag) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (Meta App Events SDK)** (reclamemeting) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Artikel 13 — Bescherming van Persoonsgegevens
 De verzameling en verwerking van uw gegevens worden geregeld door ons Privacybeleid, dat een integraal onderdeel is van deze GV.

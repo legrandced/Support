@@ -1,6 +1,6 @@
 # Conditions Générales d'Utilisation
 
-En vigueur au 01/09/2025
+En vigueur au 01/04/2026
 
 ## Article 1 — Objet, Acceptation et Reconnaissance
 Les présentes Conditions Générales d'Utilisation (ci-après « CGU ») régissent votre accès et votre utilisation de l'application mobile « Ma cave à vins » (ci-après l'« Application »), éditée par Cédric Legrand. 
@@ -59,8 +59,16 @@ Tous les droits de propriété intellectuelle sur l'Application appartiennent ex
 ## Article 11 — Consentement à l'Utilisation des Données
 Vous acceptez que Cédric Legrand puisse collecter et utiliser des données techniques et des informations connexes pour faciliter la fourniture de mises à jour, le support produit et d'autres services. Ces informations sont utilisées sous une forme qui ne vous identifie pas personnellement.
 
+L'Application intègre des outils d'analyse et de mesure publicitaire tiers (Google Firebase Analytics et Meta Platforms SDK). Ces outils collectent des données d'utilisation et de comportement dans l'Application à des fins d'amélioration du service et de mesure des performances publicitaires. Sur iOS, votre consentement explicite est recueilli via la demande d'autorisation de suivi (App Tracking Transparency) avant toute activation du suivi publicitaire. Sur Android, le suivi publicitaire est actif par défaut, conformément aux standards de la plateforme.
+
+Pour plus d'informations sur les données collectées et les tiers destinataires, veuillez consulter notre Politique de Confidentialité.
+
 ## Article 12 — Services Externes et Conditions des Tiers
 L'Application peut permettre l'accès à des services de tiers (« Services Externes »). Vous acceptez d'utiliser ces services à vos propres risques. Cédric Legrand n'est pas responsable du contenu ou de l'exactitude de ces services. Vous devez également vous conformer aux conditions de service des tiers applicables lors de l'utilisation de l'Application.
+
+L'Application intègre notamment les services tiers suivants, dont les conditions d'utilisation et politiques de confidentialité vous sont applicables :
+- **Google Firebase** (analyse, authentification, stockage) — [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+- **Meta Platforms (SDK Meta App Events)** (mesure publicitaire) — [https://www.facebook.com/privacy/policy](https://www.facebook.com/privacy/policy)
 
 ## Article 13 — Protection des Données Personnelles
 La collecte et le traitement de vos données sont régis par notre Politique de Confidentialité, qui fait partie intégrante de ces CGU.
